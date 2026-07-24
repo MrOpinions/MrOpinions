@@ -1,11 +1,19 @@
 # 👋 Hi, I'm MrOpinions
 
-I am currently in the middle of a high-intensity **48-Hour Full-Stack Web Development Sprint**. 
+Welcome to my GitHub! I am a developer currently focusing on building strong fundamentals and expanding my technical skill set. 
 
-### 🎯 Current Focus
-Stripping away the fluff and building core client-server mechanics from scratch.
-*   **Front-end:** HTML, CSS, Vanilla JavaScript, DOM Manipulation
-*   **Back-end:** Node.js, Express.js, RESTful APIs
+### 👨‍💻 About Me
+*   🌱 **Currently learning:** The core mechanics of Web Development (HTML, CSS, and JavaScript).
+*   🎯 **Current Goal:** Transitioning from understanding basic syntax to building fully functional, custom projects from scratch.
+*   💡 **Philosophy:** I believe in learning by doing, breaking complex problems down into their absolute simplest parts, and writing clean, intentional code.
 
-### 🚀 Latest Project
-*Currently building a custom full-stack web application to master client-server communication.*
+### 🛠️ Tech Stack & Tools
+*(A living list of what I am currently working with)*
+*   **Languages:** HTML, CSS, JavaScript (Learning)
+*   **Tools:** Git, GitHub, VS Code
+
+### 🚀 What's Next
+I am currently working on getting hands-on experience with front-end logic and client-server communication. Watch this space for upcoming repositories and projects!
+
+---
+*“Every great developer you know got there by solving a bunch of problems they didn't know how to solve until they did it.”*
