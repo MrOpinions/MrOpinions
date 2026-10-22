@@ -27,11 +27,6 @@ A research-grade prototype that detects cyber threats (forgery, replay, imperson
 - Built the dashboard that renders real-time security metrics
 - Researched information-theoretic security principles to tune the detection thresholds
 
-#### 🧠 Mind-Controlled Swarm Robotics
-*Team of 6 · in progress*
-
-EEG signals from a Muse headband go through an ML classifier and drive a swarm of ESP32-controlled rovers. Targeting a working demo and a research paper.
-
 #### ❤️ BME Ignite Hackfest 2026: Wearable Vitals Monitor
 *24-hour biomedical hackathon at REC*
 
@@ -53,12 +48,6 @@ A software-only, AI-based tinnitus assessment and rehabilitation system.
 *Group hackathon project*
 
 A dark, neon-styled monitoring dashboard with reactor panels and animated PWR diagrams.
-
-#### 🤖 Line-Following Robot
-Chassis designed in CAD, with a full project presentation and documentation.
-
-#### 🎲 Gacha Probability Calculator
-A self-contained HTML tool for working out pull odds.
 
 ---
 
