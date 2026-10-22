@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%3E_Hi,+I'm+Rakshith+(MrOpinions);%3E_CSE+student+%7C+builder+%7C+hackathon+regular;%3E_Software+x+hardware+x+healthcare+AI" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi, I'm Rakshith 👋</h1>
+
+<p align="center">
+  <b>CSE student · builder · hackathon regular</b><br>
+  Software × hardware × healthcare AI
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rakshith-yg"><img src="https://img.shields.io/badge/LinkedIn-rakshith--yg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
